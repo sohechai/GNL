@@ -1,4 +1,4 @@
-# GNL
+# Get_Next_Line
 
 ## Goals
 This project will not only allow you to add a very convenient function to your collection,
